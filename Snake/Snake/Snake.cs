@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Snake
 {
+    /// <summary>
+    /// Наша змейка
+    /// </summary>
     class Snake:Figure
     {
         Direction _direction;
